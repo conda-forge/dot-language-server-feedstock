@@ -1,5 +1,5 @@
 context:
-  version: "1.2.2"
+  version: "1.2.3"
 
 package:
   name: dot-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/dot-language-server/-/dot-language-server-${{ version }}.tgz
-  sha256: 04442b7d6253d29bd8af84af1794bf8b4cff86b9186c006d298def9e08684bc9
+  sha256: 5cebfb7b81fb5120bd0b4984ec6e2f48714ab50b6d377be4802124192b73c009
 
 build:
   number: 0
